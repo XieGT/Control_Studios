@@ -13,4 +13,4 @@ mlx files are in the Live Script format, which include MATLAB codes, embedded ou
 * Studio8: Root Locus Basics
 * Studio9: Root Locus w/ MATLAB
 * Studio10: Root Locus Compensator Design
-* Studio11: Bode Polts
+* Studio11: Bode Plots
